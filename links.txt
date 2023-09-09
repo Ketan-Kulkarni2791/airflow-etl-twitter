@@ -1,0 +1,1 @@
+To resolve pem file permission issue : https://www.youtube.com/watch?v=kzLRxVgos2M
